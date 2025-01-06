@@ -1,3 +1,8 @@
+# mine
+/data/*  # игнорировать все файлы в папке data кроме .gitkeep и test-include.py
+!data/.gitkeep
+!data/test-include.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
