@@ -1,5 +1,6 @@
 # mine
-/data/*  # игнорировать все файлы в папке data кроме .gitkeep и test-include.py
+data/*  
+# игнорировать все файлы в папке data кроме .gitkeep и test-include.py
 !data/.gitkeep
 !data/test-include.py
 
